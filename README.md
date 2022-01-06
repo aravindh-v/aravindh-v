@@ -3,7 +3,7 @@
 ## I'm a Developer!
 - 👀 I’m interested in Full Stack Development, App Development & Agile Scrum Master role
 - 🌱 I’m currently learning Spring Boot, Cloud & DevOps - basically everything 🤣
-- 💞️ I’m looking to collaborate with other Devs 👯
+- 💞️ I’m looking to collaborate with other Devs
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Coffee, Gaming and Bike rides
 
@@ -36,13 +36,15 @@
 <br /> 
 
 <br>
+<img align="left" alt="Docker" width="175px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" /> Docker - Container
+<br /> 
 
+<br>
 <img align="left" alt="SonarQube" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sonarqube-48x200.png" /> 
 SonarQube - Code Quality
 <br /> 
 
 <br>
-
 <img align="left" alt="Jira" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jira_Software%402x-blue.png/375px-Jira_Software%402x-blue.png" /> Jira - Agile Project Management
 <br />
 
