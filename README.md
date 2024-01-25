@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full Stack Development, App Development & Agile Scrum Master role
 - 🌱 I’m currently learning Spring Boot, Cloud & DevOps - basically everything 🤣
 - 💞️ I’m looking to collaborate with other Devs
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Coffee, Gaming and Bike rides
 
 ### Connect With Me:
